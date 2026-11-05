@@ -1,0 +1,7 @@
+ultralytics>=8
+opencv-python>=4
+streamlit>=1
+pandas>=2
+numpy>=1
+yt-dlp>=2024
+boto3>=1

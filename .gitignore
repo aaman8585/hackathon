@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+frames/
+debug_frames/
+data/*.csv
+data/*.mp4
+data/*.json
+data/thumbnails/
+*.mp4
+capture.mp4
